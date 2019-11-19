@@ -1,3 +1,5 @@
+  En los vídeos que nos comenta en la PEC1 aparece alguno sobre gitignore
+  
   155  pwd
   156  ls
   157  cd kk/masteruah/
@@ -15,7 +17,7 @@
   169  git status
   170  echo "aparece un nuevo archivo sobre el que hacer un commit, pero queremos que lo ignore"
   171  echo "privado" > .gitignore
-  172  echo "Haciedno un ls no aparecer� por ser fichero oculto"
+  172  echo "Haciedno un ls no aparecerá por ser fichero oculto"
   173  ls
   174  ls -a
   175  vim .gitignore
